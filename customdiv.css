@@ -1,0 +1,12 @@
+body{padding: 50px;}
+  
+  
+  .customs{background:silver;
+    min-height:50px;
+    text-align: center;
+    font-size: large;
+}
+.custom{width: 100%;
+padding: 10px;}
+
+hr{border:3px solid red;}
